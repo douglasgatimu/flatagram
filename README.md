@@ -1,4 +1,4 @@
-# flatagram-douglas-gatimu
+# flatagram
 
 This simple UI image viewer allows users to view, like and comment on a dog image. The project was a Moringa School Assignment to demonstrate understanding of **DOM Manipulation**, **event handling**, **fetching data from APIs** using **JavaScript**.
 
@@ -8,8 +8,8 @@ The application interacts with `json-server` to display or update a dog's image,
 ## Setup Instructions
 ### 1. Clone the Repository.
 ```bash
-git clone https://github.com/Moringa-SDF-PT10/flatagram-douglas-gatimu.git
-cd flatagram-douglas-gatimu
+git clone https://github.com/douglasgatimu/flatagram.git
+cd flatagram
 ```
 
 ### 2.  Add Required Files.
